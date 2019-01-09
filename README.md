@@ -2,7 +2,7 @@
 
 This is an android two-player mathematical game of strategy in which both players take turns removing sticks from piles to win.
 
-# Screenshots - 
+## Screenshots - 
 
 ![Screenshot](1.png)
 
