@@ -9,12 +9,12 @@ In one move, you can remove any number of matches but only from one row. Select 
 
 ### Screenshots - 
 
-![Screenshot](1.png)
+![Screenshot](Screenshot_1.png)
 
-![Screenshot](2.png)
+![Screenshot](Screenshot_2.png)
 
-![Screenshot](3.png)
+![Screenshot](Screenshot_3.png)
 
-![Screenshot](4.png)
+![Screenshot](Screenshot_4.png)
 
-![Screenshot](5.png)
+![Screenshot](Screenshot_5.png)
